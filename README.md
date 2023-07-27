@@ -1,6 +1,6 @@
 # javaweek3IP
 
-#### Author name: Josephine Kemuma
+#### Author Name: Josephine Kemuma
 
 #### Project or program name: Wildlife tracker to assist in an environmental impact study. The app will allow rangers to track wildlife sightings in the area. The app allows tracking of wildlife that is endangered and animals that are not endangered.
 
