@@ -1,3 +1,20 @@
-body{
+ /* Include Bootstrap CSS */
+      @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
 
+/* Color Scheme 1 */
+body.scheme-1 {
+    background-color: #f8f9fa;
+    color: #212529;
+    background-image: url('Elephants.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Color Scheme 1 */
+body.scheme-1 {
+    background-color: #f8f9fa;
+    color: #212529;
+    background-image: url('Lion.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
